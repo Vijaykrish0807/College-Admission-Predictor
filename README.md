@@ -3,6 +3,7 @@ A python application that uses GridSearchCV to find the best model for this prob
 and find the probability of the student getting admission in the college.
 
 List Of ML Models Used:
+
 1.Linear Regression.
 
 2.Lasso Resgression.
